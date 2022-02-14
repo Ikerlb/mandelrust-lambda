@@ -1,0 +1,10 @@
+/Users/ikerlissarrague/Dropbox/Documents/mandelrust-aws-lambda/resources/target/x86_64-unknown-linux-musl/release/deps/async_stream-64e2333bd9c69967.rmeta: /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/async-stream-0.3.2/src/lib.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/async-stream-0.3.2/src/async_stream.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/async-stream-0.3.2/src/next.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/async-stream-0.3.2/src/yielder.rs
+
+/Users/ikerlissarrague/Dropbox/Documents/mandelrust-aws-lambda/resources/target/x86_64-unknown-linux-musl/release/deps/libasync_stream-64e2333bd9c69967.rlib: /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/async-stream-0.3.2/src/lib.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/async-stream-0.3.2/src/async_stream.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/async-stream-0.3.2/src/next.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/async-stream-0.3.2/src/yielder.rs
+
+/Users/ikerlissarrague/Dropbox/Documents/mandelrust-aws-lambda/resources/target/x86_64-unknown-linux-musl/release/deps/async_stream-64e2333bd9c69967.d: /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/async-stream-0.3.2/src/lib.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/async-stream-0.3.2/src/async_stream.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/async-stream-0.3.2/src/next.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/async-stream-0.3.2/src/yielder.rs
+
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/async-stream-0.3.2/src/lib.rs:
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/async-stream-0.3.2/src/async_stream.rs:
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/async-stream-0.3.2/src/next.rs:
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/async-stream-0.3.2/src/yielder.rs:

@@ -1,0 +1,9 @@
+/Users/ikerlissarrague/Dropbox/Documents/mandelrust-aws-lambda/resources/target/release/deps/libfutures_macro-63130bd3f0d09fef.dylib: /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.19/src/lib.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.19/src/executor.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.19/src/join.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.19/src/select.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.19/src/stream_select.rs
+
+/Users/ikerlissarrague/Dropbox/Documents/mandelrust-aws-lambda/resources/target/release/deps/futures_macro-63130bd3f0d09fef.d: /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.19/src/lib.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.19/src/executor.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.19/src/join.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.19/src/select.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.19/src/stream_select.rs
+
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.19/src/lib.rs:
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.19/src/executor.rs:
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.19/src/join.rs:
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.19/src/select.rs:
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-macro-0.3.19/src/stream_select.rs:

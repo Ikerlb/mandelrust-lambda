@@ -1,0 +1,10 @@
+/Users/ikerlissarrague/Dropbox/Documents/mandelrust-aws-lambda/resources/target/x86_64-unknown-linux-musl/release/deps/lambda_runtime-825c5f0a86ab99a0.rmeta: /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/lambda_runtime-0.4.1/src/lib.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/lambda_runtime-0.4.1/src/client.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/lambda_runtime-0.4.1/src/requests.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/lambda_runtime-0.4.1/src/types.rs
+
+/Users/ikerlissarrague/Dropbox/Documents/mandelrust-aws-lambda/resources/target/x86_64-unknown-linux-musl/release/deps/liblambda_runtime-825c5f0a86ab99a0.rlib: /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/lambda_runtime-0.4.1/src/lib.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/lambda_runtime-0.4.1/src/client.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/lambda_runtime-0.4.1/src/requests.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/lambda_runtime-0.4.1/src/types.rs
+
+/Users/ikerlissarrague/Dropbox/Documents/mandelrust-aws-lambda/resources/target/x86_64-unknown-linux-musl/release/deps/lambda_runtime-825c5f0a86ab99a0.d: /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/lambda_runtime-0.4.1/src/lib.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/lambda_runtime-0.4.1/src/client.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/lambda_runtime-0.4.1/src/requests.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/lambda_runtime-0.4.1/src/types.rs
+
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/lambda_runtime-0.4.1/src/lib.rs:
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/lambda_runtime-0.4.1/src/client.rs:
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/lambda_runtime-0.4.1/src/requests.rs:
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/lambda_runtime-0.4.1/src/types.rs:

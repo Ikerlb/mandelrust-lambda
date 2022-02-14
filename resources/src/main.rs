@@ -23,7 +23,9 @@ struct MyRequest {
 }*/
 #[derive(Deserialize, Debug)]
 struct MyRequest {
-    zoom_level: String,
+    zoom_level: usize,
+    width: usize,
+    height: usize,
 }
 
 
@@ -60,28 +62,43 @@ async fn main() -> Result<(), Error> {
 
 async fn my_handler(mut req: Request, _c: Context) -> Result<Response<Vec<u8>>, Error> {
     let payload = req.body_mut();
+    log::warn!("{:?}", payload);   
     match payload {
         Body::Text(txt) => {
             let rq: MyRequest = serde_json::from_str(txt)
                 .unwrap();
+            let zoom_level = rq.zoom_level; 
+            let w = rq.width as f64; 
+            let h = rq.height as f64; 
 
-            let E = core::f64::consts::E;
+            let total = 1280 * 720;
+            let zoom = 1f64 / (zoom_level as f64);
+            let mut xscale = 0f64;
+            let mut yscale = 0f64;
+            let mut nw = ((total as f64) / (h / w)).sqrt();  
+            let mut nh = (total as f64) / nw;
+            if w <= h {
+                xscale = w / h;
+                yscale = 1f64;
+            } else {
+                yscale = h / w;
+                xscale = 1f64;
+            }
 
-            let zoom_level = f64::from_str(rq.zoom_level).unwrap();
-            let prop_zoom = 1 / zoom_level; 
-               
-            let center_point = Complex::new(-E/7.0, -E/20);
-             
+            let img_bounds = (nw as usize, nh as usize);
 
-            let sc1 = rq.lower_right; 
-            let sc2 = rq.upper_left; 
+            let xspan = 1.3 * xscale * zoom;
+            let yspan = 1.3 * yscale * zoom;
             
-            let c1 = parse_complex(&sc1).expect("Upper left complex point pair has an invalid format.");
+            let center = Complex::new(-0.761574,-0.0847596);
+
+            let c1 = Complex::new(center.re - xspan, center.im + yspan);
+            let c2 = Complex::new(center.re + xspan, center.im - yspan);
+
             let bounds = (c1, c2);
 
-            let mut pixels: [u8; 1280usize * 720usize] = [0; 1280usize * 720usize];
+            let mut pixels: Vec<u8> = vec![0; img_bounds.0 * img_bounds.1];
 
-            let img_bounds = (1280usize, 720usize);
             render::render(&mut pixels, img_bounds, bounds); 
             let buf = encode::convert_to_png(&pixels, img_bounds).unwrap();
                  

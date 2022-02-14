@@ -1,0 +1,10 @@
+/Users/ikerlissarrague/Dropbox/Documents/mandelrust-aws-lambda/resources/target/x86_64-unknown-linux-musl/release/deps/tracing_error-1b846ecf7c110bc5.rmeta: /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-error-0.1.2/src/lib.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-error-0.1.2/src/backtrace.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-error-0.1.2/src/error.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-error-0.1.2/src/layer.rs
+
+/Users/ikerlissarrague/Dropbox/Documents/mandelrust-aws-lambda/resources/target/x86_64-unknown-linux-musl/release/deps/libtracing_error-1b846ecf7c110bc5.rlib: /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-error-0.1.2/src/lib.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-error-0.1.2/src/backtrace.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-error-0.1.2/src/error.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-error-0.1.2/src/layer.rs
+
+/Users/ikerlissarrague/Dropbox/Documents/mandelrust-aws-lambda/resources/target/x86_64-unknown-linux-musl/release/deps/tracing_error-1b846ecf7c110bc5.d: /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-error-0.1.2/src/lib.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-error-0.1.2/src/backtrace.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-error-0.1.2/src/error.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-error-0.1.2/src/layer.rs
+
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-error-0.1.2/src/lib.rs:
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-error-0.1.2/src/backtrace.rs:
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-error-0.1.2/src/error.rs:
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-error-0.1.2/src/layer.rs:

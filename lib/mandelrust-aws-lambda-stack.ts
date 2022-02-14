@@ -14,6 +14,8 @@ export class MandelrustAwsLambdaStack extends cdk.Stack {
       code: lambda.Code.fromAsset(
         'resources/target/x86_64-unknown-linux-musl/release/lambda'
       ),
+      memorySize: 1024,
+      timeout: cdk.Duration.seconds(10),
       runtime: lambda.Runtime.PROVIDED_AL2,
       handler: 'not.required',
       environment: {

@@ -1,0 +1,10 @@
+/Users/ikerlissarrague/Dropbox/Documents/mandelrust-aws-lambda/resources/target/x86_64-unknown-linux-musl/release/deps/thread_local-614f005b5882ebf5.rmeta: /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.1.3/src/lib.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.1.3/src/cached.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.1.3/src/thread_id.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.1.3/src/unreachable.rs
+
+/Users/ikerlissarrague/Dropbox/Documents/mandelrust-aws-lambda/resources/target/x86_64-unknown-linux-musl/release/deps/libthread_local-614f005b5882ebf5.rlib: /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.1.3/src/lib.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.1.3/src/cached.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.1.3/src/thread_id.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.1.3/src/unreachable.rs
+
+/Users/ikerlissarrague/Dropbox/Documents/mandelrust-aws-lambda/resources/target/x86_64-unknown-linux-musl/release/deps/thread_local-614f005b5882ebf5.d: /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.1.3/src/lib.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.1.3/src/cached.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.1.3/src/thread_id.rs /Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.1.3/src/unreachable.rs
+
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.1.3/src/lib.rs:
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.1.3/src/cached.rs:
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.1.3/src/thread_id.rs:
+/Users/ikerlissarrague/.cargo/registry/src/github.com-1ecc6299db9ec823/thread_local-1.1.3/src/unreachable.rs:
